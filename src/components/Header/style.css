@@ -1,0 +1,30 @@
+header{
+    background-color: rgb(73, 158, 130);
+    padding: 20px 50px;
+    display: flex;
+    align-items: center;
+}
+
+.header-menu{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.header-menu .header-menu__item{
+    list-style: none;
+    margin: 0 10px;
+}
+
+.header-menu a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    font-weight: 600;
+}
+
+.header-menu a:hover{
+    text-decoration: none;
+    color: red;
+}

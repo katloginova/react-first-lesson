@@ -1,0 +1,12 @@
+.logo{
+    width: 50px;
+    stroke: #000;
+}
+
+.fa-group{
+    color: rgb(255, 196, 0);
+}
+
+.fa-primary{
+    fill: transparent;
+}

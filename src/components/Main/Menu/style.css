@@ -1,0 +1,21 @@
+.sidebar{
+    width: 20%;
+    background-color: rgb(216, 241, 211);
+    box-shadow: 2px 0px 5px 2px #555;
+}
+
+.sidebar-menu{
+    padding: 50px;
+}
+
+.sidebar-menu .sidebar-menu__item{
+    list-style: none;
+    text-align: left;
+    padding: 10px 0;
+    font-size: 18px;
+}
+
+.menu .menu__item:hover{
+    color: rgb(14, 214, 7);
+    cursor: pointer;
+}
